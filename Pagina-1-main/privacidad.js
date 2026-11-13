@@ -1,3 +1,4 @@
+/* Script integrado en piuttec 2.0 para el uso de avisos de privacidad y proteccion de los datos personales de los Estudiantes
 /* PIUTTEC 2.0 - Módulo de privacidad y protección de datos personales
  * Uso: agregar  <script src="privacidad.js"></script>  justo antes de </body>
  * (después del <script> principal). Completa los datos de PRIV_CONFIG.
